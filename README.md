@@ -1,7 +1,7 @@
 # Klasifikasi Tingkat Kematangan Buah Stroberi Menggunakan CNN
 
 ## Deskripsi
-Proyek ini merupakan implementasi klasifikasi tingkat kematangan buah stroberi menggunakan metode Convolutional Neural Network (CNN) dengan arsitektur MobileNetV3-Large dan EfficientNetB0.
+Penelitian ini merupakan implementasi klasifikasi tingkat kematangan buah stroberi menggunakan metode Convolutional Neural Network (CNN) dengan arsitektur MobileNetV3-Large dan EfficientNetB0.
 
 ## Dataset
 Dataset terdiri dari 1.500 citra yang dibagi menjadi tiga kelas:
